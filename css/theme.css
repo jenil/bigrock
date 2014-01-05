@@ -5937,6 +5937,7 @@ body {
 .navbar .yamm-content .list-unstyled li a {
   color: #222222;
   text-decoration: none;
+  display: block;
 }
 .navbar .yamm-content .list-unstyled li a:hover {
   color: #21bc54;
